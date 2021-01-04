@@ -4,3 +4,19 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+ul {
+    list-style: none;
+    background-color: aqua;
+    padding: 20px 0;
+    display: flex;
+}
+ul > li {
+    margin-left: 10px;
+    /* padding-left: 10px; */
+}
+a {
+    text-decoration: none;
+}
+img {
+    width: 100vw;
+}
